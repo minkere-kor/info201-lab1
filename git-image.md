@@ -42,3 +42,5 @@ image to that folder.  And finally commit everything to github!
    fashion as above.
 
 Did the edits show up on github?
+
+    yes
