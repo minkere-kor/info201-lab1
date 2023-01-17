@@ -5,7 +5,7 @@ image to that folder.  And finally commit everything to github!
 
 1. make a new folder (e.g. _images_) to this repo.  Hint: `mkdir`
 
-    mkdir _images_
+    mkdir images
 
 2. ensure that the folder is there.  Hint: `ls`
 
@@ -32,6 +32,7 @@ image to that folder.  And finally commit everything to github!
    message here.. ".
 
     git commit -am "added image"
+    git push
    
 8. go and check on github that the image is there.
 
